@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yigitozgur
 - 👀 I’m interested in digital game designing
-- 🌱 I’m currently learning sdigital game programing
+- 🌱 I’m currently learning digital game programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
